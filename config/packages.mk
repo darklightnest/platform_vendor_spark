@@ -18,6 +18,7 @@ PRODUCT_PACKAGES += \
     SimpleDeviceConfig \
     SoundPickerPrebuilt \
     OmniJaws \
+    OmniSwitch \
     GamingMode
 
 ifeq ($(WITH_LAWNCHAIR), true)
